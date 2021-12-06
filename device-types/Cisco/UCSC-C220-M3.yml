@@ -1,0 +1,29 @@
+---
+manufacturer: Cisco
+model: UCSC-C220-M3
+slug: ucsc-c220-m3
+part_number: UCSC-C220M3
+u_height: 1
+is_full_depth: true
+console-ports:
+  - name: Con
+    type: rj-45
+    label: IOIOI
+power-ports:
+  - name: PS-0
+    type: iec-60320-c14
+    maximum_draw: 770
+  - name: PS-1
+    type: iec-60320-c14
+    maximum_draw: 770
+interfaces:
+  - name: enp94s0f0
+    type: 1000base-t
+    label: 1
+  - name: enp94s0f1
+    type: 1000base-t
+    label: 2
+  - name: CIMC
+    type: 1000base-t
+    mgmt_only: true
+    label: M
