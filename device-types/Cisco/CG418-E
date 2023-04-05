@@ -1,0 +1,16 @@
+---
+manufacturer: Cisco
+model: Cisco Catalyst Cellular Gateway 418-E
+slug: cisco-cg418-e
+part_number: CG418-E
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: gigabitEthernet
+    type: 5gbase-t
+    mgmt_only: false
+console-ports:
+  - name: con 0
+    type: rj-45
+  - name: aux 0
+    type: rj-45
