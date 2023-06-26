@@ -1,0 +1,68 @@
+manufacturer: Cisco
+model: c1100tg-1n24p32a
+part_number: c1100tg-1n24p32a
+slug: c1100tg-1n24p32a
+u_height: 1
+is_full_depth: false
+interfaces:
+  - name: GigabitEthernet0/0/0
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/0/1
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/2/0
+    type: 1000base-t
+  - name: GigabitEthernet0/2/1
+    type: 1000base-t
+  - name: GigabitEthernet0/2/2
+    type: 1000base-t
+  - name: GigabitEthernet0/2/3
+    type: 1000base-t
+  - name: GigabitEthernet0/2/4
+    type: 1000base-t
+  - name: GigabitEthernet0/2/5
+    type: 1000base-t
+  - name: GigabitEthernet0/2/6
+    type: 1000base-t
+  - name: GigabitEthernet0/2/7
+    type: 1000base-t
+  - name: GigabitEthernet0/2/8
+    type: 1000base-t
+  - name: GigabitEthernet0/2/9
+    type: 1000base-t
+  - name: GigabitEthernet0/2/10
+    type: 1000base-t
+  - name: GigabitEthernet0/2/11
+    type: 1000base-t
+  - name: GigabitEthernet0/2/12
+    type: 1000base-t
+  - name: GigabitEthernet0/2/13
+    type: 1000base-t
+  - name: GigabitEthernet0/2/14
+    type: 1000base-t
+  - name: GigabitEthernet0/2/15
+    type: 1000base-t
+  - name: GigabitEthernet0/2/16
+    type: 1000base-t
+  - name: GigabitEthernet0/2/17
+    type: 1000base-t
+  - name: GigabitEthernet0/2/18
+    type: 1000base-t
+  - name: GigabitEthernet0/2/19
+    type: 1000base-t
+  - name: GigabitEthernet0/2/20
+    type: 1000base-t
+  - name: GigabitEthernet0/2/21
+    type: 1000base-t
+  - name: GigabitEthernet0/2/22
+    type: 1000base-t
+  - name: GigabitEthernet0/2/23
+    type: 1000base-t
+console-ports:
+  - name: con 0
+    type: rj-45
+  - name: usb
+    type: usb-micro-b
+power-ports:
+  - name: PSU0
+    type: iec-60320-c14
+    maximum_draw: 150
